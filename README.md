@@ -22,7 +22,7 @@ Connections are as follows for ISP:
 Connections are as follows for OLED
 
 <table>
-<tr><th>Desmos</th><th>OLED</th></tr>
+<tr><th>Desmos D1 Mini</th><th>OLED</th></tr>
 <tr><th>D2</th><th>SDA</th></tr>
 <tr><th>D1</th><th>SCL</th></tr>
 <tr><th>5V</th><th>VCC</th></tr>
