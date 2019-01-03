@@ -10,7 +10,7 @@ If the AVR target is powered by a different Vcc than what powers your ESP8266 ch
 Connections are as follows for ISP:
 
 <table>
-<tr><th>Desmos</th><th>D1 Mini / SPI</th></tr>
+<tr><th>Desmos D1 Mini</th><th>SPI</th></tr>
 <tr><th>D7</th><th>MISO</th></tr>
 <tr><th>D6</th><th>MOSI</th></tr>
 <tr><th>D5</th><th>SCK</th></tr>
