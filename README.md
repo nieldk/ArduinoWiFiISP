@@ -34,7 +34,7 @@ The ISP sketch will try to connect to the defined Accesspoints (multiple accessp
 Once connected, it will show the connect AP name, and IP/Port
 
 Once connect, use avrdude (Sorry, linux only, as Windows doesnt support net)<br>
-avrdude -b 230400 -c arduino -p <device> -P net:<IP:PORT> <commands>
+avrdude -b 230400 -c arduino -p <i>(device)</i> -P net:<i>(IP:PORT) (commands)</i>
 
 Example:<br>
 avrdude -b 230400 -c arduino -p t85 -P net:192.168.8.140:328 -U flash:w:t85_Default.hex
